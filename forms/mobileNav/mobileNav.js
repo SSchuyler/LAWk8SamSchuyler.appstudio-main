@@ -2,7 +2,7 @@ hmbMenu.onshow=function(){
   hmbMenu.hidden = false
 }
 
-hmbMenu.onclick=function(s){ // when just click the control. 's' is
+hmbMenu.onclick=function(s){ // when just click the control. "s" is
                               // the object returned
     if (typeof(s) == "object") { // do nothing - they just clicked on the control
        return

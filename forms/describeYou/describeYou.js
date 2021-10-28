@@ -3,7 +3,7 @@ rdoPerson.onchange=function(){
   let choice = rdoPerson.value
   switch(choice){
 case 0:
-  console.log(" I would agree that you are a Optimistic person too!")
+  console.log("I would agree that you are a Optimistic person too!")
   break;
 case 1:
   console.log(" I would agree that you are a Pessimistic person too!")
